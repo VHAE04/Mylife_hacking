@@ -11,7 +11,9 @@ Going back in time when I was a middle school kid when I was still practicing pl
 On a beautiful day, my friend invited me to the library to read a book, I saw in the library there is a computer for students and teachers to use public about once or twice I used the computer, I checked the history and saw the teacher. Go to the website to enter grades for students as well as send messages to students who have not studied (to be honest at that time, I was very cayyyyyyyy because I often received messages that I did not my homework T_T)
 
 I know the website is [XXX] and the teacher accidentally saved his account and password on the web
+
 With the account shown as (name of the teacher who taught me)
+
 And the password is hidden as *********
 
 ![](https://github.com/VHAE04/Mylife_hacking/blob/main/images/passhide.PNG?raw=true)
@@ -43,8 +45,10 @@ At the beginning of 11th grade I knew my school managed grades through an app XX
 
 ![](https://github.com/VHAE04/Mylife_hacking/blob/main/images/data_api_app.PNG?raw=true)
 
-i also learned about web site vulnerabilities and played some ctf.
-My school website is created on nukeviet platform and this is also the first time I create a poc about the zero-day xss stored vulnerability about nukeviet and exploit it to take control of my school website (because the article is quite long, i'll make another posts that analyzes this zero-day vulnerability).
+I also learned about web site vulnerabilities and played some ctf.
+
+My school website is created on nukeviet platform and this is also the first time I create a poc about the zero-day xss stored vulnerability about nukeviet and exploit 
+it to take control of my school website (because the article is quite long, i'll make another posts that analyzes this zero-day vulnerability).
 
 ps : you can go to [thptvietnambalan-hanoi.edu.vn](http://thptvietnambalan-hanoi.edu.vn) scroll down to the bottom and press ctrl+a to see secret at the bottom of the web
 
