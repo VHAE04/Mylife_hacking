@@ -26,7 +26,7 @@ But the special thing is that the teacher's account has less privileges than the
 
 ![](https://github.com/VHAE04/Mylife_hacking/blob/main/images/teacher.PNG?raw=true)
 
-but by accessing my teacher account I got more clues about the other accounts as well as admin accounts, I was going to try all the related passwords as well as easy passwords to hack into those accounts (I later learned it was bruteforce technique) somehow I have hacked 2 admin accounts by the above technique and here are the features and admin accounts. well and i can accessing admin account (the tool I created to bruteforce code in autoit language was also the first language I learned
+but by accessing my teacher account I got more clues about the other accounts as well as admin accounts, I was going to try all the related passwords as well as easy passwords to hack into those accounts (I later learned it was bruteforce technique) somehow I have hacked 2 admin accounts by the above technique and here are the features and admin accounts. well and i can accessing admin account (the tool I created to bruteforce code in autoit language was also the first language I learned)
 
 ![](https://github.com/VHAE04/Mylife_hacking/blob/main/images/admin.PNG?raw=true)
 
