@@ -34,7 +34,7 @@ Here I have full rights to edit the scores of sending mass messages to parents s
 
 After that, I emailed my teacher about her account being exposed and I was suddenly invited to the principal's room to have a drink and was reminded of the hacking behavior by in the middle of the lesson ._. although I'm trying to make schools safer.
 
-ps If you read newspapers, you will see this: [https://zingnews.vn/loi-khai-9x-nhan-1700-tin-con-ong-ba-hoc-ngu-nhu-bo-post685735.html](https://zingnews.vn/loi-khai-9x-nhan-1700-tin-con-ong-ba-hoc-ngu-nhu-bo-post685735.html)
+ps If you often read newspapers, you will see this: [https://zingnews.vn/loi-khai-9x-nhan-1700-tin-con-ong-ba-hoc-ngu-nhu-bo-post685735.html](https://zingnews.vn/loi-khai-9x-nhan-1700-tin-con-ong-ba-hoc-ngu-nhu-bo-post685735.html)
 
 
 ## High school.
