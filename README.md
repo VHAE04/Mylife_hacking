@@ -30,7 +30,7 @@ but by accessing my teacher account I got more clues about the other accounts as
 
 ![](https://github.com/VHAE04/Mylife_hacking/blob/main/images/admin.PNG?raw=true)
 
-Here I have full rights to edit the scores of sending mass messages to parents student teacher information ....
+Here I have full rights to edit the scores of sending mass messages to parents student teacher, private information and more.......
 
 After that, I emailed my teacher about her account being exposed and I was suddenly invited to the principal's room to have a drink and was reminded of the hacking behavior by in the middle of the lesson ._. although I'm trying to make schools safer.
 
