@@ -48,7 +48,7 @@ ps : you can go to [thptvietnambalan-hanoi.edu.vn](http://thptvietnambalan-hanoi
 
 ![](https://github.com/VHAE04/Mylife_hacking/blob/main/images/secret.PNG?raw=true)
 
-....Will write more about attacking local computers as well as routers, camera...
+....Will write more about attacking local computers as well as routers, camera... in high school 
 
 
 
