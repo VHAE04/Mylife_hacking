@@ -48,11 +48,13 @@ At the beginning of 11th grade I knew my school managed grades through an app XX
 I also learned about web site vulnerabilities and played some ctf.
 
 My school website is created on nukeviet platform and this is also the first time I create a poc about the zero-day xss stored vulnerability about nukeviet and exploit 
-it to take control of my school website (because the article is quite long, i'll make another posts that analyzes this zero-day vulnerability).
+it to take control of my school website video tool here : [video](https://www.youtube.com/watch?v=ActzTLmODA4) (because the article is quite long, i'll make another posts that analyzes this zero-day vulnerability).
 
 ps : you can go to [thptvietnambalan-hanoi.edu.vn](http://thptvietnambalan-hanoi.edu.vn) scroll down to the bottom and press ctrl+a to see secret at the bottom of the web
 
 ![](https://github.com/VHAE04/Mylife_hacking/blob/main/images/secret.PNG?raw=true)
+
+
 
 ....Will write more about attacking local computers as well as routers, camera... in high school 
 
