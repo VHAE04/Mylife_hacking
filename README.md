@@ -56,12 +56,54 @@ ps : you can go to [thptvietnambalan-hanoi.edu.vn](http://thptvietnambalan-hanoi
 
 
 
-....Will write more about attacking local computers as well as routers, camera... in high school 
+....Will write more ....
+
+ye come back when just the other day i got my github account back T_T
+    
+![]()
+
+Continuing this series I will continue to talk about how I hack the school camera.
+
+My school uses 2 network services vnpt and viettel.
+
+Usually when learning Informatics news I tried to scan other networks but failed because the computer department used a separate network solution, vnpt after a while. I redrawn my school's network diagram
+
+![]()
+
+Because of security, the network solution is only linked to the management, accounting, and security departments
+
+....and was surprised when my school just opened a library room and have computers connected to that network
+
+![]()
+
+Here comes the new game begins
+
+I scan all services and machines in the network range and found some computers with smb vulnerability (ms17) and I hacked into it.
+
+The first machine I was able to attack was the security room's machine because it was too old,on this machine I have quite a lot of information because it contains wifi password information, server, and is accessing the total camera, from that way I downloaded the camera decoder from this machine and tried to connect back to the computer. from the information in the txt file in the machine using rdp
+
+About the camera I accessed the camera at the school gate
+
+![]()
+
+With the computer in the finance department I have too much information including exam questions, answers to payroll ..........
+
+![]()
 
 
+## Go to university
 
+while curious about admissions i hacked the admissions page and reported it to the school ._.
 
+![]()
 
+You can see the old version here, visit and view the page source
+
+http://web.archive.org/web/20230216134634/https://ts.hust.edu.vn/
+
+and then I failed college ;D
+
+....more in future
 
 
 
