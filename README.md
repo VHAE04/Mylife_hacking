@@ -60,7 +60,7 @@ ps : you can go to [thptvietnambalan-hanoi.edu.vn](http://thptvietnambalan-hanoi
 
 ye come back when just the other day i got my github account back T_T
     
-![]()
+![](https://mail-attachment.googleusercontent.com/attachment/u/2/?ui=2&ik=07c10c5867&attid=0.1&permmsgid=msg-a:r513274108417762640&th=186e5c5614ccc3b3&view=att&disp=inline&realattid=f_lf9t0q2c0&saddbat=ANGjdJ83Clnhkvb0xV-Qyvw9dLfzfgaPF8hONG96Ls-0bYOlrPp3C9pNCsd1gLtM7gYaj-zm_2mu0x229XQImsyIAFcGe2Tu_en2ngtToAG4f1qgYQm032c5rBYK_OSwHFcleNt2Q2dr_siVoGx9uPxW33GmWPMra9Jpxt9yJXpJIZsjmrQ26eQ_V8rZlv7g_1jSArZPvy4WTzBKSp5zKeEvJQQ_To3dUWjMiakJexL7tdrezSntbFMKDWmX-DEkL-HF_yRRfsXx2_7vW8dTEbiiCtLeL25ZfiK-iH_5-LFjuKanGA-hv4KlXZOqZkuGxiXsv5-b_GQ7_miUa2tNhVf1BKxwNTff6agWLSQE1BwCgw9jwzvs9uXhOpuylZrYC_8luFPYZxBOMVOgiCHqq8-6GxwqKFZX7HSbwWYHrY1tuci7TPbmAznrjCmWnie_qiBJ2BCWYKIre9vTuxFZ_vTAeeh7P1cJSEgf6bNsy9IrJWUYneyHMhsHNFPaPc94gSf4uPHybhxJW1PxVrVod86Ht9Y9406D8hah9u5BXyxwaREZWc7RinCoHC17a75LZBycLQaLbHQBTP1vAbOCJl3xAEF29LgiLnhib8EDNNmKvnduzRkAz1B1KCTJ3gWCc4RQSSyThsWDFGmShvFtkAJRGoTxRCLImgoBfCLoCggCxJc_qDj7j76JdsN4y0TezpURzmviZ7eP_LH8k4Wv2nlSbLIneV14VXjSe-8WcxA5VPBRENpnanJEyz_PPgdK-xshQY9AZPxnTwk_V_pfIjYUxs1yVOri1Cis69J_T4OrzU3mZUfphIGMwnQm98fR-yEbrB1HkIf4YKfL1QPVXzwIUu7gOW8BongKCw4hxW3E3UTZnc11MPbeXdpy4KGdax4jSYlaZXQbLSGQpeT95ciBR2znWCkh5Fxnbfljaab2Fae19OuDFc-MOCr2ocraagyJh0y1gX0-oq-Rm-QgsvbQw4G4s9U6NXOZ6r80reCO7m2FgsOW3ZAUqH8Y5HgXUZrnQtOyJZcPEaCNm60sqxOs0DcN8b4RAKEceE95paDoPzE99f6a_RdyXDyCjRMCMnGG4wg7ejKpSlGGKizoZ_yHXRAVP96nY34bA7vPvwqNLJoUUWfYCWylolh4RrkIgStdmWiF3zlV6oFsaTBs2hI7VO0qYe6DR35upi87pT1gXS9xR6Kxo7bVCV7XRk0)
 
 Continuing this series I will continue to talk about how I hack the school camera.
 
@@ -68,34 +68,36 @@ My school uses 2 network services vnpt and viettel.
 
 Usually when learning Informatics news I tried to scan other networks but failed because the computer department used a separate network solution, vnpt after a while. I redrawn my school's network diagram
 
-![]()
+![](https://github.com/VHAE04/Mylife_hacking/blob/main/a/photo_2023-06-11_11-05-10.jpg?raw=true)
 
 Because of security, the network solution is only linked to the management, accounting, and security departments
 
 ....and was surprised when my school just opened a library room and have computers connected to that network
 
-![]()
+![](https://github.com/VHAE04/Mylife_hacking/blob/main/a/photo_2023-06-11_11-13-50.jpg?raw=true)
 
 Here comes the new game begins
 
 I scan all services and machines in the network range and found some computers with smb vulnerability (ms17) and I hacked into it.
 
+![](https://github.com/VHAE04/Mylife_hacking/blob/main/a/photo_2023-06-11_11-17-30.jpg?raw=true)
+
 The first machine I was able to attack was the security room's machine because it was too old,on this machine I have quite a lot of information because it contains wifi password information, server, and is accessing the total camera, from that way I downloaded the camera decoder from this machine and tried to connect back to the computer. from the information in the txt file in the machine using rdp
 
 About the camera I accessed the camera at the school gate
 
-![]()
+![](https://github.com/VHAE04/Mylife_hacking/blob/main/a/photo_2023-06-11_11-44-33.jpg?raw=true)
 
 With the computer in the finance department I have too much information including exam questions, answers to payroll ..........
 
-![]()
-
+![](https://github.com/VHAE04/Mylife_hacking/blob/main/a/photo_2023-06-11_11-51-29.jpg?raw=true)
+![](https://github.com/VHAE04/Mylife_hacking/blob/main/a/photo_2023-06-11_11-53-04.jpg?raw=true)
 
 ## Go to university
 
 while curious about admissions i hacked the admissions page and reported it to the school ._.
 
-![]()
+![](https://github.com/VHAE04/Mylife_hacking/blob/main/a/photo_2023-06-11_11-48-12.jpg?raw=true)
 
 You can see the old version here, visit and view the page source
 
