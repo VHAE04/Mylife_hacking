@@ -99,6 +99,8 @@ while curious about admissions i hacked the admissions page and reported it to t
 
 ![](https://github.com/VHAE04/Mylife_hacking/blob/main/a/photo_2023-06-11_11-48-12.jpg?raw=true)
 
+throughout my school years,I can completely edit and preview the test to get the best score or sell it, but I don't do ._. probably partly moral,
+
 You can see the old version here, visit and view the page source
 
 http://web.archive.org/web/20230216134634/https://ts.hust.edu.vn/
