@@ -78,7 +78,7 @@ Because of security, the network solution is only linked to the management, acco
 
 Here comes the new game begins
 
-I scan all services and machines in the network range and found some computers with smb vulnerability (ms17) and I hacked into it.
+I scan all services and machines in the network range and found some computers with smb vulnerability (ms17) and I hacked into it (I connect to the local network using the network cable of my library room and my laptop).
 
 ![](https://github.com/VHAE04/Mylife_hacking/blob/main/a/photo_2023-06-11_11-17-30.jpg?raw=true)
 
