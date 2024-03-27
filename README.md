@@ -105,7 +105,7 @@ You can see the old version here, visit and view the page source
 
 http://web.archive.org/web/20230216134634/https://ts.hust.edu.vn/
 
-and then I failed college ;D
+and then I failed university ;D
 
 ....more in future
 
