@@ -52,6 +52,8 @@ it to take control of my school website video tool here : [video](https://www.yo
 
 ps : you can go to [thptvietnambalan-hanoi.edu.vn](http://thptvietnambalan-hanoi.edu.vn) scroll down to the bottom and press ctrl+a to see secret at the bottom of the web
 
+link rf : https://web.archive.org/web/20230712115119/http://thptvietnambalan-hanoi.edu.vn/
+
 ![](https://github.com/VHAE04/Mylife_hacking/blob/main/images/secret.PNG?raw=true)
 
 
